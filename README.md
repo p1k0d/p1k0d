@@ -1,5 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-![](https://svg-banners.vercel.app/api?type=luminance&text1=Study%20Code%20Sleep&width=800&height=150)
+![](https://svg-banners.vercel.app/api?type=luminance&text1=Study.%20Code.%20Sleep.&width=950&height=150)
 
 ## Skills 🛠️
 ![](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
